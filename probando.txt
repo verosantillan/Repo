@@ -1,5 +1,6 @@
 esto es una prueba  de
 va de nuez1
 otra prueba mas
+archivo de omision
 
 
